@@ -15,6 +15,9 @@
     "native",
     "select"
   ],
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
   "author": {
     "name": "zhaotai",
     "email": "zhaotai5541@gmail.com"
